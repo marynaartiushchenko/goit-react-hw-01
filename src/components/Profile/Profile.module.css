@@ -1,0 +1,8 @@
+.profileContainer {
+  border-radius: 4%;
+}
+.profileAvatar {
+  border-radius: 50%;
+  width: 200px;
+  border-color: black;
+}
